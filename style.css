@@ -1,0 +1,21 @@
+body {
+      background-color: #000;
+      color: #fff;
+      font-family: monospace;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    canvas {
+      background-color: #000;
+      border: 1px solid #fff;
+      margin-top: 10px;
+    }
+
+    select, button {
+      margin-bottom: 10px;
+    }
